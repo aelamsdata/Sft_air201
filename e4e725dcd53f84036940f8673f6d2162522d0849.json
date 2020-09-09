@@ -1,0 +1,31 @@
+{
+    "deflections": {
+        "Cup": 0.0,
+        "SEM": 0.0
+    },
+    "gains": {
+        "Cup": 1.0,
+        "SEM": 0.0
+    },
+    "settings": [
+        {
+            "electronenergy": 91.97,
+            "extractionlens": 37.86,
+            "horizontalsymmetry": -12.6,
+            "ionrepeller": -5.44,
+            "operatingvoltage": 1950.605,
+            "zfocus": 46.03,
+            "zsymmetry": -7.75
+        },
+        {},
+        {
+            "current": 400.0,
+            "ramp_period": 1.0,
+            "ramp_step": 10.0
+        },
+        {
+            "mftable": "mftable"
+        }
+    ],
+    "spectrometer": {}
+}
