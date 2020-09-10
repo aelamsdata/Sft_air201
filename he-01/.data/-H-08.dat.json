@@ -1,0 +1,39 @@
+{
+    "baselines": [
+        {
+            "blob": null,
+            "detector": "Cup"
+        },
+        {
+            "blob": null,
+            "detector": "SEM"
+        }
+    ],
+    "commit": "3643a2bb32bac9c8e8b58e0ce55ba2ebaf1097c4",
+    "encoding": "base64",
+    "format": ">ff",
+    "signals": [
+        {
+            "blob": null,
+            "detector": "Cup",
+            "isotope": "Ne22"
+        },
+        {
+            "blob": null,
+            "detector": "SEM",
+            "isotope": "Ne21"
+        }
+    ],
+    "sniffs": [
+        {
+            "blob": null,
+            "detector": "Cup",
+            "isotope": "Ne22"
+        },
+        {
+            "blob": null,
+            "detector": "SEM",
+            "isotope": "Ne21"
+        }
+    ]
+}
