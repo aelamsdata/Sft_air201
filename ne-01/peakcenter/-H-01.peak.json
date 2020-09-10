@@ -1,0 +1,18 @@
+{
+    "Cup": {
+        "center_dac": 1.758455,
+        "center_signal": 3096.48576281419,
+        "high_dac": 1.7594800000000002,
+        "high_resolving_power": 1172.6866666666224,
+        "high_signal": 598.691269072753,
+        "low_dac": 1.75743,
+        "low_resolving_power": 35149.10000008192,
+        "low_signal": 2766.31807638653,
+        "points": "P+Dx1EUNyU4/4PN3RSzlFz/g9RtFN0HpP+D2vkU6e6E/4PhiRT0myj/g+gVFPjTNP+D7qUU/V1M/4P1MRUCvjj/g/u9FQSV5P+EAk0VBVUg/4QI2RUGHxj/hA9pFQVYLP+EFfUVBERI/4QchRUCu+z/hCMRFQBsfP+EKZ0U+Yvc/4QwLRTzGnj/hDa5FOvViP+EPUkU2yWY/4RD1RTG+Gj/hEplFL4dAP+EUPEUwGP4/4RXfRSvN3T/hF4NFIp72P+EZJkUcuxc/4RrKRRa9JT/hHG1FCTHTP+EeEUT2dRw/4R+0RNuLSj/hIVdExGcJP+Ei+0S5kuc/4SSeRKjZPz/hJkJEoFGxP+En5UScm44/4SmJRJfPMD/hKyxEjruqP+Esz0R2WWY/4S5zRFdABT/hMBZERAvvP+ExukQ8FQI/4TNdRDT8Bz/hNQFEJctBP+E2pEQVrD4/4ThHRAzD2j/hOetEAR+YP+E7jkPqHac/4T0yQ9kJ1z/hPtVDyF86P+FAeUO7b10=",
+        "resolution": 748.3425531914658
+    },
+    "fmt": ">ff",
+    "interpolation": "",
+    "reference_detector": "Cup",
+    "reference_isotope": "Ne20"
+}
