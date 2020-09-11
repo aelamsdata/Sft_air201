@@ -1,0 +1,18 @@
+{
+    "Cup": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "P+DjFT/7cBY/4OS/P/90iD/g5mk//skfP+DoE0AHwyo/4Om9P/twFj/g62ZAA2kCP+DtEEAFFYc/4O66QAYWpD/g8GRABRWHP+DyDkAGwg0/4PO4QAAP+D/g9WJAAWbJP+D3DEAAD/g/4Pi2QFwiCT/g+l9AVG6bP+D8CUBVxXY/4P2zQFbGmj/g/11AXHfAP+EBB0BUbps/4QKxQF0jLj/hBFtAVcV2P+EGBUBZygg/4QeuQFnKCD/hCVhABmxZP+ELAkBYHXY/4QysQFsg5D/hDlZAVnDjP+EQAEBVxXY/4RGqQFNtdj/hE1RAU212P+EU/kAGwg0/4RanQFt2mz/hGFFAVBjkP+EZ+0BXx78/4RulQFRumz/hHU9Al5ZMP+Ee+UCVvtA/4SCjQFQY5D/hIk1AVsaaP+Ej9kBZygg/4SWgQF145j/hJ0pAVRoIP+Eo9EAEv9M/4SqeQF145j/hLEhAU212P+Et8kBXHFE/4S+cQFXFdj/hMUZAW8xSP+Ey70BbzFI/4TSZQFkemz/hNkNAV8e/P+E37UBczXc/4TmXQFdyCA==",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "",
+    "reference_detector": "Cup",
+    "reference_isotope": "Ne20"
+}
